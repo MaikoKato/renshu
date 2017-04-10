@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func tapGreen(_ sender: Any) {
-        view.backgroundColor = UIColor.green
+        view.backgroundColor = UIColor.yellow
     }
     @IBAction func tapWhite(_ sender: Any) {
         view.backgroundColor = UIColor.red
