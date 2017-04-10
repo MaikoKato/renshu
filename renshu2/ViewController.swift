@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         view.backgroundColor = UIColor.green
     }
     @IBAction func tapWhite(_ sender: Any) {
-        view.backgroundColor = UIColor.white
+        view.backgroundColor = UIColor.red
     }
     override func viewDidLoad() {
         super.viewDidLoad()
